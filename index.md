@@ -1,12 +1,11 @@
-## Buse Garip - Computer Engineer
+## _Buse Garip - Computer Engineer_
 
-### Linkedin :
-https://www.linkedin.com/in/buse-garip-951397139/
-### Github :
-https://github.com/busegarip
+### Linkedin : https://www.linkedin.com/in/buse-garip-951397139/
 
-## Contact
+### Github : https://github.com/busegarip
 
-### E-mail : 
-busegarip96@gmail.com
+## _Contact_
+
+### E-mail : busegarip96@gmail.com
+
 ### Ankara / TURKEY
