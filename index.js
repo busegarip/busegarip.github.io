@@ -1,5 +1,5 @@
-﻿var apiUrl = "http://localhost:64538/";
-//var apiUrl = "https://inoteapi.kod.fun/";  //hocanın apisi ile girmeyi denedik.
+﻿//var apiUrl = "http://localhost:64538/";
+var apiUrl = "https://inoteapi.kod.fun/";  //hocanın apisi ile girmeyi denedik.
 var app = angular.module("myApp", ["ngRoute"]);
 
 
